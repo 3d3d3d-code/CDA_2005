@@ -20,6 +20,15 @@ a{
 }
 
 footer{
-    text-align: center;
+ 
+   margin-left: 22.5%;
+
+}
+ul li {
+ color:#FFFFFF;
+}
+
+header{
+    display: inline-block
 }
 
