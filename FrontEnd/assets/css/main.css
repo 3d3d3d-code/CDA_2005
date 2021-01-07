@@ -4,31 +4,40 @@
 
 body {
     margin: 0;
-    font-family: Verdana,Tahoma, sans-serif;
+    font-family: Verdana, Tahoma, sans-serif;
     background: #222222;
 }
 
 h1, h2 {
     color: #CCFFCC;
 }
-p{
+
+p {
     color: #FFFFFF;
 }
-a{
 
+a {
     color: #CCCCFF;
 }
 
-footer{
- 
-   margin-left: 22.5%;
-
+footer {
+    margin-left: 22.5%;
 }
+
 ul li {
- color:#FFFFFF;
+    color: #FFFFFF;
+    margin-right: 50px;
 }
 
-header{
-    display: inline-block
+.wrapper {
+    display: flex;
+    flex-direction: row;
 }
+
+header {
+    background: rgb(3, 71, 3);
+    flex-direction: row;
+}
+
+
 
