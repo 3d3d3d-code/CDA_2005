@@ -21,7 +21,7 @@ Ouvrez votre page index.html dans votre éditeur et créez la structure HTML sta
 Votre document HTML doit respecter ces conditions :
 - Le type de document (doctype) est défini
 - Le jeu de caractères (charset) est défini
-- Le titre est défini
+- Le titre est défini.
 
 
 #### Pour vous aider 
