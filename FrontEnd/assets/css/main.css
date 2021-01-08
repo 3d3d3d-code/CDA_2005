@@ -1,0 +1,40 @@
+* {
+    box-sizing: border-box;
+}
+
+body {
+    margin: 0;
+    font-family: Verdana, Tahoma, sans-serif;
+    background: #222222;
+}
+
+.container {
+    display: flex;
+    justify-content: space-between;add -
+}
+
+h1, h2 {
+    color: #CCFFCC;
+}
+
+p {
+    color: #FFFFFF;
+}
+
+a {
+    color: #CCCCFF;
+}
+
+footer {
+    margin-left: 22.5%;
+}
+
+ul li {
+    color: #FFFFFF;
+    margin-right: 50px;
+}
+
+header {
+    background: rgb(3, 71, 3);
+    flex-direction: row;
+}
